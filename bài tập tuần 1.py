@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 from __future__ import annotations
 
 import math
@@ -269,4 +267,5 @@ if __name__ == "__main__":
 	try:
 		main()
 	except KeyboardInterrupt:
+
 		print("\nĐã hủy theo yêu cầu người dùng.") 
